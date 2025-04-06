@@ -1,0 +1,62 @@
+header {
+    background-color:   #183146  ;
+    height: 100px;
+}
+.imagenes {
+    width: 120%;
+    height: 80px;
+}
+.navbar .nav-link{
+    color: white;
+    font-size: 17px;
+}
+.navbar .nav-link:hover  {
+
+ color:  #1be0eb ;
+text-decoration: underline ;
+margin-right: 20%;
+
+}
+
+.carousel-inner .d-block{
+    height: 400px;
+    margin-top: 0px;
+}
+
+.container-fluid1  {
+    background-color:   #183146  ;
+    margin-top: 10px;
+    height: 120px;
+    
+}
+  .whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#46eb11 ;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+  
+  .whatsapp-icon {
+    margin-top:13px;
+  }
+
+  .redes{
+    text-decoration: none;
+  }
+ footer{
+  margin-top: 5px;
+ }
+ .container-23{
+  background-color:  #183146   ;
+  margin-top: 50px;
+  color: white;
+  height: 125px;
+  margin-block: 20px;
+ }
